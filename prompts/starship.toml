@@ -1,7 +1,7 @@
 format = """
 [](#9A348E)\
 $username\
-[](bg:#DA627D fg:#9A348E)\
+[](bg:#202547 fg:#9A348E)\
 $directory\
 [](fg:#DA627D bg:#FCA17D)\
 $git_branch\
